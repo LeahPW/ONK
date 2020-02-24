@@ -17,6 +17,7 @@ namespace ONK1.Models
         public string VTKfabrikat { get; set; }
         public string VTKFarve { get; set; }
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int VTKId { get; set; }
         public string VTKModel { get; set; }
         public string VTKSerienummer { get; set; }    

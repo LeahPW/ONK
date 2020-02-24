@@ -16,6 +16,7 @@ namespace ONK1.Models
         public DateTime VTAnskaffet { get; set; }
         public string VTFabrikat { get; set; }
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int VTId { get; set; }
         public string VTModel { get; set; }
         public string VTSerienummer { get; set; }

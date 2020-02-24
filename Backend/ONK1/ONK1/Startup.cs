@@ -51,6 +51,10 @@ namespace ONK1
             {
                 endpoints.MapControllers();
             });
+
+            using var serviceScope = app.ApplicationServices.GetService<IServiceScopeFactory>().CreateScope();
+            var context = serviceScope.ServiceProvider.GetRequiredService<ONK1Context>();
+            context.Database.EnsureCreated();
         }
     }
 }

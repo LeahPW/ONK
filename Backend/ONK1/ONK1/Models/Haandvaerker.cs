@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ONK1.Models
 {
@@ -14,6 +15,7 @@ namespace ONK1.Models
         public string HVFagomraade { get; set; }
         public string HVFornavn { get; set; }
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int HaandvaerkerId { get; set; }
 
         public List<Vaerktoejskasse> Vaerktoejskasser { get; set; }
