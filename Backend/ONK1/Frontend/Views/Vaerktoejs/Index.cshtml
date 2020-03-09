@@ -1,0 +1,65 @@
+﻿@model IEnumerable<ONK1.Models.Vaerktoej>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Vaerktoejskasse)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VTAnskaffet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VTFabrikat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VTModel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VTSerienummer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VTType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vaerktoejskasse.VTKId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VTAnskaffet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VTFabrikat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VTModel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VTSerienummer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VTType)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.VTId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.VTId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.VTId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 using System.ComponentModel.DataAnnotations;
 
-namespace ONK1.Models
+namespace Backend.Models
 {
     public class Haandvaerker
     {
