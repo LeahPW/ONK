@@ -11,9 +11,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
-using Backend.Models;
+using ONK1.Models;
 
-namespace Backend
+namespace ONK1
 {
     public class Startup
     {

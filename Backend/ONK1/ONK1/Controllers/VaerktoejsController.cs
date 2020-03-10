@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Backend.Models;
+using ONK1.Models;
 
-namespace Backend.Controllers
+namespace ONK1.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
