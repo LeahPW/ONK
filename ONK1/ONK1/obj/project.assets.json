@@ -8480,11 +8480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leah\\Documents\\GitHub\\ONK\\Backend\\ONK1\\ONK1\\ONK1.csproj",
+      "projectUniqueName": "C:\\Users\\Leah\\Documents\\ONK\\ONK1\\ONK1\\ONK1.csproj",
       "projectName": "ONK1",
-      "projectPath": "C:\\Users\\Leah\\Documents\\GitHub\\ONK\\Backend\\ONK1\\ONK1\\ONK1.csproj",
+      "projectPath": "C:\\Users\\Leah\\Documents\\ONK\\ONK1\\ONK1\\ONK1.csproj",
       "packagesPath": "C:\\Users\\Leah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leah\\Documents\\GitHub\\ONK\\Backend\\ONK1\\ONK1\\obj\\",
+      "outputPath": "C:\\Users\\Leah\\Documents\\ONK\\ONK1\\ONK1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
