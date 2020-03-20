@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leah\\Documents\\GitHub\\ONK\\Backend\\ONK1\\ONK1\\ONK1.csproj": {}
+    "C:\\Users\\simoh\\Dropbox\\IKT\\9Semester\\ITONK\\ONK3\\Backend\\ONK1\\ONK1\\ONK1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leah\\Documents\\GitHub\\ONK\\Backend\\ONK1\\ONK1\\ONK1.csproj": {
+    "C:\\Users\\simoh\\Dropbox\\IKT\\9Semester\\ITONK\\ONK3\\Backend\\ONK1\\ONK1\\ONK1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leah\\Documents\\GitHub\\ONK\\Backend\\ONK1\\ONK1\\ONK1.csproj",
+        "projectUniqueName": "C:\\Users\\simoh\\Dropbox\\IKT\\9Semester\\ITONK\\ONK3\\Backend\\ONK1\\ONK1\\ONK1.csproj",
         "projectName": "ONK1",
-        "projectPath": "C:\\Users\\Leah\\Documents\\GitHub\\ONK\\Backend\\ONK1\\ONK1\\ONK1.csproj",
-        "packagesPath": "C:\\Users\\Leah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leah\\Documents\\GitHub\\ONK\\Backend\\ONK1\\ONK1\\obj\\",
+        "projectPath": "C:\\Users\\simoh\\Dropbox\\IKT\\9Semester\\ITONK\\ONK3\\Backend\\ONK1\\ONK1\\ONK1.csproj",
+        "packagesPath": "C:\\Users\\simoh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simoh\\Dropbox\\IKT\\9Semester\\ITONK\\ONK3\\Backend\\ONK1\\ONK1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Leah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\simoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -94,6 +91,14 @@
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[3.0.2, 3.0.2]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
             }
           ],
           "frameworkReferences": {

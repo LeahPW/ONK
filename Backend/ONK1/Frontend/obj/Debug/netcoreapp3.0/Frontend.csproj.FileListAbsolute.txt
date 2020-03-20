@@ -1,0 +1,9 @@
+C:\Users\simoh\Dropbox\IKT\9Semester\ITONK\ONK2\Backend\ONK1\Frontend\obj\Debug\netcoreapp3.0\Frontend.csprojAssemblyReference.cache
+C:\Users\simoh\Dropbox\IKT\9Semester\ITONK\ONK2\Backend\ONK1\Frontend\obj\Debug\netcoreapp3.0\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+C:\Users\simoh\Dropbox\IKT\9Semester\ITONK\ONK2\Backend\ONK1\Frontend\obj\Debug\netcoreapp3.0\staticwebassets\Frontend.StaticWebAssets.xml
+C:\Users\simoh\Dropbox\IKT\9Semester\ITONK\ONK2\Backend\ONK1\Frontend\obj\Debug\netcoreapp3.0\Frontend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\simoh\Dropbox\IKT\9Semester\ITONK\ONK2\Backend\ONK1\Frontend\obj\Debug\netcoreapp3.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\simoh\Dropbox\IKT\9Semester\ITONK\ONK2\Backend\ONK1\Frontend\obj\Debug\netcoreapp3.0\Frontend.RazorAssemblyInfo.cache
+C:\Users\simoh\Dropbox\IKT\9Semester\ITONK\ONK2\Backend\ONK1\Frontend\obj\Debug\netcoreapp3.0\Frontend.RazorAssemblyInfo.cs
+C:\Users\simoh\Dropbox\IKT\9Semester\ITONK\ONK2\Backend\ONK1\Frontend\obj\Debug\netcoreapp3.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\simoh\Dropbox\IKT\9Semester\ITONK\ONK2\Backend\ONK1\Frontend\obj\Debug\netcoreapp3.0\Frontend.AssemblyInfo.cs
